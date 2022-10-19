@@ -1,0 +1,81 @@
+body {
+    min-height: 2000px;
+}
+
+.jumbotron img {
+    height: 400px;
+    width: 300px;
+    margin-bottom: 30px;
+}
+
+.jumbotron {
+    background-color: #333;
+    padding-top: 3rem;
+    color: white;
+}
+
+.jumbotron h1 {
+    letter-spacing: 2px;
+}
+
+.jumbotron p {
+    letter-spacing: 1px;
+}
+
+.about {
+    background-color: #aaa;
+}
+
+hr {
+    width: 300px;
+    border-top: 3px solid white;
+    margin: 1rem auto;
+}
+
+.achievements {
+    background-color: #888;
+}
+
+.contact {
+    background-color: #444;
+    color: white;
+}
+
+.achievements h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.contact ul {
+    width: 50%;
+    margin: auto; 
+    /* biar containernya di tengah */
+}
+
+.container ul li {
+    text-align: center;
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.container a {
+    color: white;
+    letter-spacing: 1px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+
+/* getwaves.io */
